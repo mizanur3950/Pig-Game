@@ -36,7 +36,7 @@ body {
 	padding: 100px;
 }
 
-.active { background-color: rgba(204, 204, 204, 0.3); }
+.active { background-color: #ecf0f1; }
 .active .player-name { font-weight: 300; }
 
 .player-name {
